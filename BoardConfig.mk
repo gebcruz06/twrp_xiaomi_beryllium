@@ -160,6 +160,8 @@ SHRP_DEVICE_TYPE := A_Only
 # SHRP Padding Flag
 SHRP_STATUSBAR_RIGHT_PADDING := 40
 SHRP_STATUSBAR_LEFT_PADDING := 40
+SHRP_NOTCH := true
 
 # SHRP Express, enables on-the-fly theme patching (also persistent) + persistent lock
 SHRP_EXPRESS := true
+SHRP_DARK := true
